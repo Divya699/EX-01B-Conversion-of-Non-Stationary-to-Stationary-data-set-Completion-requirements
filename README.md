@@ -160,6 +160,32 @@ plt.xlabel('Date')
 plt.ylabel('Total Sales')
 plt.show()
 ```
+## OUTPUT 
+
+ORIGINAL DATA:
+<img width="1788" height="285" alt="image" src="https://github.com/user-attachments/assets/a96aa628-a163-4c13-8bd4-22bfe13c1c5b" />
+
+
+REGULAR DIFFERENCING:
+<img width="1695" height="262" alt="image" src="https://github.com/user-attachments/assets/9433b72f-7d7a-4e0d-9997-bab501eac224" />
+
+SEASONAL ADJUSTMENT:
+<img width="1654" height="264" alt="image" src="https://github.com/user-attachments/assets/1ec173ec-555b-4b14-9c38-4d179deeceec" />
+
+LOG TRANSFORMATION:
+<img width="1712" height="261" alt="image" src="https://github.com/user-attachments/assets/0c40c7a5-8377-4c4b-9b7a-3e975bae3aa1" />
+LOG TRANSFORMATION AND REGULAR DIFFERENCING:
+<img width="1798" height="287" alt="Screenshot 2026-11-01 150513" src="https://github.com/user-attachments/assets/a84a53f0-1786-484e-9954-8a9bed7abfa0" />
+
+
+LOG TRANSFORMATION AND REGULAR DIFFERENCING AND SEASONAL ADJUSTMENT:
+
+<img width="1815" height="290" alt="image" src="https://github.com/user-attachments/assets/e200974b-a413-434c-b951-1f6df912ce36" />
+
+OVERALL VIEW:
+
+<img width="1344" height="720" alt="image" src="https://github.com/user-attachments/assets/e6ceba33-f39e-4336-b74d-9bbb53005697" />
+
 
 ## RESULT:
 Thus we have created the python code for the conversion of non stationary to stationary data on Canteen shop
